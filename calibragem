@@ -1,0 +1,67 @@
+{
+  "proposta": "Texto da Proposta",
+  "redacoes": [
+    {
+      "texto": "Texto da Redacao",
+      "nota_geral": 780,
+      "competencias": [
+        {
+          "id": 1,
+          "nota": 200,
+          "explicacao": "justificativa para nota da competência 1"
+        },
+        {
+          "id": 2,
+          "nota": 200,
+          "explicacao": "justificativa para nota da competência 2"
+        },
+        {
+          "id": 3,
+          "nota": 200,
+          "explicacao": "justificativa para nota da competência 3"
+        },
+        {
+          "id": 4,
+          "nota": 100,
+          "explicacao": "justificativa para nota da competência 4"
+        },
+        {
+          "id": 5,
+          "nota": 80,
+          "explicacao": "justificativa para nota da competência 5"
+        }
+      ]
+    },
+    {
+      "texto": "Texto da Redacao",
+      "nota_geral": 980,
+      "competencias": [
+        {
+          "id": 1,
+          "nota": 200,
+          "explicacao": "justificativa para nota da competência 1"
+        },
+        {
+          "id": 2,
+          "nota": 200,
+          "explicacao": "justificativa para nota da competência 2"
+        },
+        {
+          "id": 3,
+          "nota": 200,
+          "explicacao": "justificativa para nota da competência 3"
+        },
+        {
+          "id": 4,
+          "nota": 200,
+          "explicacao": "justificativa para nota da competência 4"
+        },
+        {
+          "id": 5,
+          "nota": 180,
+          "explicacao": "justificativa para nota da competência 5"
+        }
+      ]
+    }
+  ]
+}
