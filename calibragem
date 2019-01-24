@@ -3,6 +3,7 @@
   "redacoes": [
     {
       "texto": "Texto da Redacao",
+      "has_title": false,
       "nota_geral": 780,
       "competencias": [
         {
@@ -34,6 +35,7 @@
     },
     {
       "texto": "Texto da Redacao",
+      "has_title": true,
       "nota_geral": 980,
       "competencias": [
         {
